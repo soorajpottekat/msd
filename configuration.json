@@ -1,0 +1,9 @@
+{
+    "database" : "msd",
+    "dbURL" : "localhost",
+    "cookieName": "session",
+    "secret": "NEMA",
+    "duration": "3",
+    "activeDuration": "30",
+    "SELECT_ALL_USERS" : "SELECT * FROM users"
+}
